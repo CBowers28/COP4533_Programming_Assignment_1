@@ -38,7 +38,11 @@ SCALABILITY
 -----------
 Both the matching algorithm and the verifier exhibit approximately O(n^2)
 runtime behavior, which matches the theoretical analysis. As n doubles, the
-runtime increases by roughly a factor of four.
+runtime increases by roughly a factor of four as seen in the Graphs below.
+
+![Matching runtime](graphs/matching_runtime.png)
+
+![Verifier runtime](graphs/verifier_runtime.png)
 
 
 AUTHORS
