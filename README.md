@@ -1,13 +1,14 @@
 HOW TO RUN
 ----------
-1. Run the matching algorithm:
-   python3 main.py
+1. Clone Repo into local IDE
 
-2. Verify a matching:
-   python3 verifier.py example.in example.out
+2. Use the natitive command line to run the following commands
 
-3. Run scalability benchmarks:
-   python3 benchmark.py
+3. Run the matching algorithm: python3 main.py
+
+4. Verify a matching: python3 verifier.py example.in example.out
+
+5. Run scalability benchmarks: python3 benchmark.py
 
 
 PROJECT: Stable Matching (Hospital–Student)
